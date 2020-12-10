@@ -32,4 +32,4 @@ Here are some ideas to get you started:
 ![""](https://img.shields.io/badge/docker-white?logo=docker&logoColor=orange)
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sarojdahal1213&repo=Essentials)](https://github.com/sarojdahal1213/Essentials)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sarojdahal1213&repo=Essentials)](https://github.com/sarojdahal1213/Essentials)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=everydaykarma&layout=compact)](https://github.com/everydaykarma)
